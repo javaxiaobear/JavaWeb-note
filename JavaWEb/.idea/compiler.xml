@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JavaWeb-homework3" />
+        <module name="JavaWeb-Homework8" />
+        <module name="JavaWeb-Homework7" />
+        <module name="JavaWeb-Homework6" />
+        <module name="JavaWeb-Homework5" />
+        <module name="JavaWeb-Homework4" />
+        <module name="JavaWeb-Homework2" />
+        <module name="JavaWeb-07" />
+        <module name="JavaWeb-06" />
+        <module name="JavaWeb-05" />
+        <module name="JavaWeb-04" />
+        <module name="JavaWeb-03" />
+        <module name="JavaWeb-02" />
+        <module name="JavaWeb-01" />
+        <module name="JavaWeb-homework" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="JavaWeb-01" target="1.5" />
+      <module name="Javaweb-Homework9" target="1.5" />
+      <module name="JavaWeb0Homework7" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
